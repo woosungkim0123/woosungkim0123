@@ -1,8 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?&height=300&fontAlignY=40&text=WoosungKim&animation=twinkling&fontSize=80&color=fbceb1&fontColor=f89b00)
 
-<br>
-<br>
+
 
 <h3 align="center">Skill List</h3>
 <p align="center">
@@ -13,7 +12,6 @@
   <a href="https://github.com/woosungkim0123/daegu-ai-school"><img src="https://img.shields.io/badge/Css-blue?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 </p>
 
-<br>
 <br>
 
 <h3 align="center"> Me </h3>
