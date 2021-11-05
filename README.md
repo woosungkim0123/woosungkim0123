@@ -22,4 +22,4 @@
   <a href="mailto:sibu2005@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sibu2005@naver.com"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=fbceb1&height=200&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=fbceb1&height=150&section=footer&fontSize=90)
