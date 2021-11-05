@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?width=100%&height=300&align=center&text=WoosungKim&animation=fadeIn&fontSize=40&color=fbceb1&fontColor=660099)
+![header](https://capsule-render.vercel.app/api?width=100%&height=300&fontAlignY=40&text=WoosungKim&animation=twinkling&fontSize=80&color=fbceb1&fontColor=f89b00)
 
 <h3 align="center">Skill List</h3>
 <p align="center">
